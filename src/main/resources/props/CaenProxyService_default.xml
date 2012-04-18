@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<!-- Web service configuration -->
+	<host>0.0.0.0</host>
+	<port>8888</port>
+	
+	<!-- Serial port where the reader is plugged in -->
+	<!-- This can be /dev/tty* for linux and COM[1-9] for windows -->
+	<serialPort>/dev/ttyUSB0</serialPort>
+	
+	<!-- 
+		You should not change this value, it's reader dependant. CAEN slate readers only have
+		one logical source with one antenna attached to it Ant0
+	-->
+	<logicalSource>Source_0</logicalSource>
+	
+	<!-- Allows to set the reader power, this value goes from 0 to 199 -->
+	<readerPower>199</readerPower>
+	
+</properties>
