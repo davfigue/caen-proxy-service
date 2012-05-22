@@ -8,7 +8,6 @@ This software should be installed on the host machine where the reader is
 plugged in, allows to communicate to RFID middlewares like ALE middleware by fosstrak <http://www.fosstrak.org>
 
 For the case of fosstrack to allow the connection, I developed my own "hal-impl-caen" that is plugable into the ALE server.
-if needed write me at: "davfigue@gmail.com"
 
 
 Requirements
