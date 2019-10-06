@@ -25,7 +25,7 @@ import com.asisoft.caen.host.service.CaenRFIDProxy;
 /**
  * Entry point for the whole application
  * 
- * @author "David Figueroa Escalante"
+ * @author "David Figueroa"
  * 
  */
 public class Main {

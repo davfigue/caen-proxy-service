@@ -14,7 +14,7 @@ import org.apache.log4j.Logger;
 /**
  * General Helper functions for the project
  * 
- * @author "David Figueroa Escalante"
+ * @author "David Figueroa"
  * 
  * TODO: Problems with paths in windows, apparently because of the spaces
  */
