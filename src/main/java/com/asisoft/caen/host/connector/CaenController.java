@@ -15,7 +15,7 @@ import com.caen.RFIDLibrary.CAENRFIDTag;
 
 /**
  * 
- * @author "David Figueroa Escalante"
+ * @author "David Figueroa"
  * 
  */
 public class CaenController implements Runnable {
